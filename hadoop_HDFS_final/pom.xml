@@ -41,6 +41,18 @@
       <artifactId>hadoop-client</artifactId>
       <version>${hadoop.version}</version>
     </dependency>
+
+
+      <dependency>
+          <groupId>com.kumkee</groupId>
+          <artifactId>UserAgentParser</artifactId>
+          <version>0.0.1</version>
+      </dependency>
+
+
+
+
+
   </dependencies>
 
   <build>

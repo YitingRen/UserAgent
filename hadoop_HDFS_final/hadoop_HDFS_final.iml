@@ -86,5 +86,6 @@
     <orderEntry type="library" name="Maven: com.amazonaws:aws-java-sdk-kms:1.10.6" level="project" />
     <orderEntry type="library" name="Maven: com.amazonaws:aws-java-sdk-core:1.10.6" level="project" />
     <orderEntry type="library" name="Maven: org.apache.hadoop:hadoop-annotations:2.6.0-cdh5.7.0" level="project" />
+    <orderEntry type="library" name="Maven: com.kumkee:UserAgentParser:0.0.1" level="project" />
   </component>
 </module>
