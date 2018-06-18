@@ -1,0 +1,7 @@
+com/kumkee/userAgent/OS.class
+com/kumkee/userAgent/BrowserVersion.class
+com/kumkee/userAgent/UserAgent.class
+com/kumkee/userAgent/Browser.class
+com/kumkee/userAgent/Platform.class
+com/kumkee/userAgent/Engine.class
+com/kumkee/userAgent/UserAgentParser.class
