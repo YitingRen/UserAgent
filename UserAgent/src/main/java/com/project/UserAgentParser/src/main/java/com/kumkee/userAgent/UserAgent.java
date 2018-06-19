@@ -1,4 +1,4 @@
-package com.imooc.hadoop.project.UserAgentParser.src.main.java.com.kumkee.userAgent;
+package com.project.UserAgentParser.src.main.java.com.kumkee.userAgent;
 
 public class UserAgent {
 

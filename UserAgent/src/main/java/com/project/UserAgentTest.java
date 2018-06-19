@@ -55,6 +55,6 @@ public class UserAgentTest {
 
     public static void main(String[] args) throws IOException {
         readfile();
-
+        map = null;
     }
 }

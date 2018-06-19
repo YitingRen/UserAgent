@@ -1,7 +1,6 @@
-com/kumkee/userAgent/OS.class
-com/kumkee/userAgent/BrowserVersion.class
-com/kumkee/userAgent/UserAgent.class
-com/kumkee/userAgent/Browser.class
-com/kumkee/userAgent/Platform.class
-com/kumkee/userAgent/Engine.class
-com/kumkee/userAgent/UserAgentParser.class
+com/project/UserAgentParser/src/main/java/com/kumkee/userAgent/OS.class
+com/project/UserAgentParser/src/main/java/com/kumkee/userAgent/Browser.class
+com/project/UserAgentParser/src/main/java/com/kumkee/userAgent/Platform.class
+com/project/UserAgentParser/src/main/java/com/kumkee/userAgent/Engine.class
+com/project/UserAgentParser/src/main/java/com/kumkee/userAgent/UserAgent.class
+com/project/UserAgentParser/src/main/java/com/kumkee/userAgent/BrowserVersion.class
